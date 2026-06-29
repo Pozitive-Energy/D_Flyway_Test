@@ -1,0 +1,3 @@
+[environments.development]
+user = "Sa"
+password = "${localSecret.Flyway Desktop c1353fc7-493d-4055-9b2b-64d08ec14799}"
