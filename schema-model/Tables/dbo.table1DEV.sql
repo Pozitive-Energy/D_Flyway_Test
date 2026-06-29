@@ -4,6 +4,6 @@ CREATE TABLE [dbo].[table1DEV]
 [column2] [int] NULL,
 [column3] [bigint] NULL,
 [datatypechange] [varchar] (256) NULL,
-[datatypechangetry2] [varchar] (128) NULL
+[datatypechangetry2] [varchar] (256) NULL
 )
 GO
