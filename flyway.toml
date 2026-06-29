@@ -19,6 +19,8 @@ mixed = true
 outOfOrder = true
 schemaModelLocation = "schema-model"
 validateMigrationNaming = true
+baselineVersion = "000"
+baselineOnMigrate = true
 
 [flyway.sqlserver.clean]
 mode = "all"
